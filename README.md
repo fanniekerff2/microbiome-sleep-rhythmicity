@@ -6,7 +6,7 @@ This is the code repository associated with the manuscript [The gut microbiota a
 The full publication includes results from 20 infants (163 samples). However, to respect the privacy of the parents who declined to make their infant data public, the associated public repository (**PRJEB104111**) contains data for 17 infants (130 samples).
 
 #### Contributions
-**Fannie Kerff** (first author) is the sole author and developer of the code in this repository.
+**Fannie Kerff** is the sole author and developer of the code in this repository.
 
 ## Setup
 
