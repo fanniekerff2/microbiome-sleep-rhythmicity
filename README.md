@@ -2,7 +2,11 @@
 
 This is the code repository associated with the manuscript [The gut microbiota and sleep in infants: a focus on diurnal rhythmicity patterns](https://www.biorxiv.org/content/10.1101/2025.07.11.664337v1).
 
-Please note that the publication includes results from 20 infants (163 samples). However, because the parents of 3 infants declined to make their data public, the publicly available dataset associated with this repository (**PRJEB104111**) contains only the samples from the remaining 17 infants (130 samples).
+#### Data Availability Note
+The full publication includes results from 20 infants (163 samples). However, to respect the privacy of the parents who declined to make their infant data public, the associated public repository (**PRJEB104111**) contains data for 17 infants (130 samples).
+
+#### Contributions
+**Fannie Kerff** is the sole author and developer of the code in this repository.
 
 ## Setup
 
